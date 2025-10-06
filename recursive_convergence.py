@@ -1,3 +1,25 @@
+"""
+What happens here
+
+Each level adds one more radical — like adding one more “dimension” 
+in your vector analogy.
+
+As NN increases (deeper nesting), the computed value stabilizes:
+Depth 1: 1.0000000000  
+Depth 2: 1.7320508080  
+Depth 3: 2.2912878475  
+Depth 4: 2.7577164470  
+Depth 5: 2.9340031587  
+Depth 6: 2.9807749123  
+Depth 7: 2.9940297863  
+Depth 8: 2.9980085271  
+Depth 9: 2.9992164705  
+Depth10: 2.9997107481  
+
+It quickly converges toward 3.0000…
+...
+
+"""
 import math
 import matplotlib.pyplot as plt
 
