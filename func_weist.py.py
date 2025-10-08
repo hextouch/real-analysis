@@ -1,5 +1,6 @@
 """
-Application: The Weierstrass Function (Continuous Everywhere, Differentiable Nowhere)
+Application: The Weierstrass Function 
+(Continuous Everywhere, Differentiable Nowhere)
 """
 import numpy as np
 import matplotlib.pyplot as plt
